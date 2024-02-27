@@ -5,7 +5,7 @@
        <div class="card-title p-2">
 
         </div>
-        <div class="card-body">
+        <div class="card-body bg-Alice Blue">
 
           <h5><b>{{ $title }}</b></h5>
 
@@ -14,7 +14,7 @@
            <table class="table">
             <tr>
                 <th>NO</th>
-                <th>Name</th>
+                <th>Menu</th>
                 <th>Action</th>
             </tr>
 
